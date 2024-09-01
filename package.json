@@ -1,0 +1,19 @@
+{
+    "name": "js_calendar_todo_bg-main",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "tsc --watch"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^5.5.4"
+    },
+    "compilerOptions": {
+        "target": "es2017",
+        "lib": ["es2017", "dom"]
+    }
+}
